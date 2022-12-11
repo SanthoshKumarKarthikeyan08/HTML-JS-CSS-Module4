@@ -1,6 +1,6 @@
 Coursera course: HTML, CSS, and Javascript for Web Developers, Module 4 Coding Assignment, completed.
 
-https://selenearzola.github.io/coursera-course-module4-assignment/
+https://github.com/SanthoshKumarKarthikeyan08/HTML-JS-CSS-Module4/tree/main
 
 Let's write a little bit of Javascript programming code to practice what we've learned! Woohoo! :-)
 
